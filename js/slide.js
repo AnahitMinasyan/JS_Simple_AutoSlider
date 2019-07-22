@@ -1,5 +1,8 @@
 
 
+
+
+
 const sliderImg = document.querySelectorAll('.slider-container .slider-img');
 
 const nextImgDelay = 2000;
